@@ -1,0 +1,12 @@
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\MedicalCenter.exe
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\MedicalCenter.dll
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\MedicalCenter.deps.json
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\MedicalCenter.runtimeconfig.json
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\MedicalCenter.pdb
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nour_Allah\Desktop\Updated Medical Center\FinalResult\System.IdentityModel.Tokens.Jwt.dll

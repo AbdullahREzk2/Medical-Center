@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Nour_Allah\Desktop\Updated Medical Center\ClientSide\MedicalCenter\MedicalCenter\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AppointmentForm\addAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppointmentForm\UpdateStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorForm\AddDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IntroPage\IntroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PateintForm\AddPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForm\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForm\ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
